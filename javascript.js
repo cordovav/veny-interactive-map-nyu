@@ -61,7 +61,7 @@ async function getFoursquare(business){
         headers: {
         
         Accept:'Content-Type': 'application/json',
-        Authorization: "fsq3j+39b4undMWmzl+yHOpfIWM2vGDFlObBPxT6MbcvgKs=",
+        Authorization: "",
     
     }
 }
